@@ -27,6 +27,7 @@ github_username:  awadamiau
 # Build settings
 markdown: kramdown
 theme: plainwhite
+remote_theme: thelehhman/plainwhite-jekyll
 
 plainwhite:
   name: Ali Awada
