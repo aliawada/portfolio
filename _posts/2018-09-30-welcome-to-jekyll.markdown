@@ -4,22 +4,12 @@ title:  "Segundo Projeto!"
 date:   2018-09-30 13:15:47 -0300
 categories: html css javascript
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec dui nunc mattis. Laoreet sit amet cursus sit amet dictum sit. Eget gravida cum sociis natoque penatibus et magnis dis parturient. Odio facilisis mauris sit amet massa. Suscipit tellus mauris a diam maecenas sed enim. Quis auctor elit sed vulputate mi sit amet mauris. Habitasse platea dictumst quisque sagittis purus sit amet. Donec ultrices tincidunt arcu non sodales neque. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Massa sapien faucibus et molestie ac feugiat sed. Habitant morbi tristique senectus et netus et malesuada fames ac. Vivamus at augue eget arcu dictum varius duis at. Risus feugiat in ante metus dictum. Imperdiet massa tincidunt nunc pulvinar. Nec nam aliquam sem et tortor consequat id porta. Scelerisque eu ultrices vitae auctor eu. Molestie nunc non blandit massa enim nec. Diam phasellus vestibulum lorem sed risus.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Molestie a iaculis at erat pellentesque adipiscing commodo. Integer quis auctor elit sed vulputate. Congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Sit amet volutpat consequat mauris. Nulla facilisi cras fermentum odio. A lacus vestibulum sed arcu non odio. Non blandit massa enim nec dui nunc. Hendrerit dolor magna eget est lorem ipsum dolor sit amet. Ac auctor augue mauris augue neque gravida in. In hac habitasse platea dictumst quisque sagittis. Nunc sed id semper risus in hendrerit gravida rutrum. Pellentesque diam volutpat commodo sed. Egestas sed sed risus pretium.
 
-Jekyll also offers powerful support for code snippets:
+Quisque sagittis purus sit amet. Commodo sed egestas egestas fringilla phasellus. Ut sem viverra aliquet eget sit amet tellus. Sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus. Augue ut lectus arcu bibendum at varius vel pharetra. Et molestie ac feugiat sed lectus. Tristique magna sit amet purus gravida quis blandit turpis. Morbi tristique senectus et netus et malesuada fames ac. Ac tincidunt vitae semper quis. Leo in vitae turpis massa. Ultrices gravida dictum fusce ut placerat orci.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Sit amet nisl purus in. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Vel eros donec ac odio tempor. Sollicitudin ac orci phasellus egestas. Sagittis eu volutpat odio facilisis mauris sit amet. In pellentesque massa placerat duis ultricies lacus. Porta nibh venenatis cras sed felis eget velit aliquet sagittis. Fringilla urna porttitor rhoncus dolor purus non. Egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Tortor id aliquet lectus proin nibh nisl condimentum id venenatis. Euismod lacinia at quis risus sed. Proin fermentum leo vel orci porta non pulvinar neque. Sodales neque sodales ut etiam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus. Ullamcorper sit amet risus nullam eget felis eget nunc lobortis. Accumsan in nisl nisi scelerisque. Orci sagittis eu volutpat odio facilisis mauris sit. Blandit aliquam etiam erat velit scelerisque in dictum non. Pellentesque habitant morbi tristique senectus et netus et malesuada.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Porttitor massa id neque aliquam vestibulum morbi blandit. Feugiat nisl pretium fusce id. Et ligula ullamcorper malesuada proin libero nunc. In egestas erat imperdiet sed euismod nisi porta. Ornare suspendisse sed nisi lacus. Tristique senectus et netus et. Aliquet porttitor lacus luctus accumsan tortor posuere. Urna et pharetra pharetra massa massa ultricies. Quis enim lobortis scelerisque fermentum dui faucibus in ornare quam. Cursus metus aliquam eleifend mi in. Nunc sed velit dignissim sodales ut. Feugiat scelerisque varius morbi enim nunc faucibus. Placerat duis ultricies lacus sed turpis tincidunt id aliquet. Mus mauris vitae ultricies leo integer malesuada nunc vel. Imperdiet sed euismod nisi porta lorem.
